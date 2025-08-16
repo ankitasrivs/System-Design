@@ -25,3 +25,13 @@
 - The system should protect against bad content in videos.
 - The system should protect against bots or fake accounts uploading or consuming videos.
 - The system should have monitoring / alerting.
+
+## Core Entities
+
+- **User**: A user of the system, either an uploader or viewer.
+
+- **Video**: A video that is uploaded and watched by users.
+
+- **VideoMetadata**: Metadata associated with a video, such as:
+  - The uploading user
+  - URL reference to a transcript
