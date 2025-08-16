@@ -26,6 +26,12 @@
 - The system should protect against bots or fake accounts uploading or consuming videos.
 - The system should have monitoring / alerting.
 
+## Scale Requirements
+
+- **Video Uploads:** ~1 million videos uploaded per day  
+- **Video Views / Downloads:** ~100 million videos watched per day  
+- **Maximum Video Size:** 256 GB
+- 
 ## Core Entities
 
 - **User**: A user of the system, either an uploader or viewer.
