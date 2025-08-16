@@ -35,3 +35,45 @@
 - **VideoMetadata**: Metadata associated with a video, such as:
   - The uploading user
   - URL reference to a transcript
+ 
+## The API
+
+The API is the primary interface that users will interact with. Defining it early helps guide the high-level system design. Below are endpoints corresponding to our core functional requirements.
+
+### Upload a Video
+- **Endpoint:** `POST /upload`
+- **Request Body:**
+```json
+{
+  "video": "<video_file>",
+  "videoMetadata": {
+    "title": "string",
+    "description": "string",
+    "uploadedBy": "userId",
+    "transcriptUrl": "string",
+    "tags": ["string"]
+  }
+}
+Description: Uploads a new video along with its metadata.
+
+Stream a Video
+Endpoint: GET /videos/{videoId}
+
+Response:
+
+json
+
+{
+  "video": "<video_file_or_stream_url>",
+  "videoMetadata": {
+    "title": "string",
+    "description": "string",
+    "uploadedBy": "userId",
+    "transcriptUrl": "string",
+    "tags": ["string"]
+  }
+}
+Description: Retrieves a video for streaming along with its metadata.
+
+
+
