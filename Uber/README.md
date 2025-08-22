@@ -164,14 +164,15 @@ PATCH /ride/driver/update
 
 ---
 
-## Next Steps
 
-* Define detailed schema for entities (tables/fields).
-* Add ride-matching algorithm design.
-* Extend APIs for out-of-scope features (ratings, categories, scheduling).
 <img width="819" height="665" alt="Screenshot 2025-08-22 at 8 35 45 PM" src="https://github.com/user-attachments/assets/febac496-d847-464f-9148-6c8662564755" />
 <img width="1014" height="734" alt="Screenshot 2025-08-22 at 8 48 03 PM" src="https://github.com/user-attachments/assets/cd383695-ea78-4e40-8cf4-c324210dec9a" />
 
 
+**Body:**
 
+1. What is geohashing
+2. How to update driver location
+3. How to make driver only one request
+4. Use of redis
 
