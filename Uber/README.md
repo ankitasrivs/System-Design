@@ -169,9 +169,9 @@ PATCH /ride/driver/update
 * Define detailed schema for entities (tables/fields).
 * Add ride-matching algorithm design.
 * Extend APIs for out-of-scope features (ratings, categories, scheduling).
+<img width="819" height="665" alt="Screenshot 2025-08-22 at 8 35 45 PM" src="https://github.com/user-attachments/assets/febac496-d847-464f-9148-6c8662564755" />
+<img width="1014" height="734" alt="Screenshot 2025-08-22 at 8 48 03 PM" src="https://github.com/user-attachments/assets/cd383695-ea78-4e40-8cf4-c324210dec9a" />
 
-```
-<img width="1014" height="734" alt="Screenshot 2025-08-22 at 8 48 03 PM" src="https://github.com/user-attachments/assets/2d40f1f7-db12-470b-a34f-8b181f0655e2" />
-![Uploading Screenshot 2025-08-22 at 8.46.07 PM.png…]()
 
-<img width="819" height="665" alt="Screenshot 2025-08-22 at 8 35 45 PM" src="https://github.com/user-attachments/assets/cda4ee1b-b484-4368-ae5b-4818d941c25f" />
+
+
