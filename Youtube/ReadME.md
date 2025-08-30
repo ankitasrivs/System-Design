@@ -122,3 +122,6 @@ Max video size: 256 gb
 
 
 <img width="1469" height="650" alt="Screenshot 2025-08-16 at 3 39 13 PM" src="https://github.com/user-attachments/assets/49bf35a5-b5b5-403c-8a52-9a6bc371a6e7" />
+
+![IMG_0414 2](https://github.com/user-attachments/assets/cdfb32bb-f97e-4f4c-aa9b-0139a76109c5)
+
