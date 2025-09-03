@@ -240,5 +240,6 @@ In modern architectures, these aren’t “either-or.” Often, companies combin
 * Elasticsearch = search & analytics.
 * Blob Storage = raw file storage.
 * Cassandra = massive distributed scale with tunable consistency.
+<img width="715" height="609" alt="Screenshot 2025-09-03 at 11 14 50 AM" src="https://github.com/user-attachments/assets/c6c2b05e-aaaa-4cd4-91f8-950bd079bdb8" />
 
-Do you want me to also build a real-world system architecture diagram (e.g., an e-commerce app showing which component uses Postgres, Elasticsearch, Cassandra, Blob storage) so you can visualize how they complement each other?
+
